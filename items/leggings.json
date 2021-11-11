@@ -1,0 +1,543 @@
+{
+	"items": [
+		{
+			"type": "LEATHER_LEGGINGS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "MAG_ITHA_LEGGINGS_1",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§8Rotting Leggings Of Mag Itha",
+				"itemId": "mag_itha_leggings",
+				"lootType": "MAG_ITHA_LEGGINGS",
+				"gemstones": {},
+				"tier": 1,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"HEALTH": [
+						95
+					],
+					"ARMOR": [
+						2
+					],
+					"RADIANCE": [
+						7
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§8Rotting Leggings Of Mag Itha"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+7 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+95 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+2 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §8Leather Leggings"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "499927122LEATHER_LEGGINGS1636405204836"
+			}
+		},
+		{
+			"type": "CHAINMAIL_LEGGINGS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "DIYU_LEGGINGS_1",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§7Steady Leggings of Diyu",
+				"itemId": "diyu_leggings",
+				"lootType": "DIYU_LEGGINGS",
+				"gemstones": {},
+				"tier": 2,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"DODGE": [
+						0
+					],
+					"RADIANCE": [
+						4
+					],
+					"HEALTH": [
+						159
+					],
+					"ARMOR": [
+						3
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§7Steady Leggings of Diyu"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+4 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+159 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+3 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §625"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §7Chain Leggings"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "426890582CHAINMAIL_LEGGINGS1636405234206"
+			}
+		},
+		{
+			"type": "IRON_LEGGINGS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "ZION_LEGGINGS_3",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§fRecovered Leggings of Zion",
+				"itemId": "zion_leggings",
+				"lootType": "ZION_LEGGINGS",
+				"gemstones": {},
+				"tier": 3,
+				"HideFlags": 3,
+				"enchantLevel": 3,
+				"attributes": {
+					"DODGE": [
+						2
+					],
+					"RADIANCE": [
+						12
+					],
+					"HEALTH": [
+						372
+					],
+					"ARMOR": [
+						6
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§fRecovered Leggings of Zion"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+12 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+372 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+6 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bEvasion: §6+2% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §650"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §fIron Leggings"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "701762213IRON_LEGGINGS1636405251158"
+			}
+		},
+		{
+			"type": "DIAMOND_LEGGINGS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "OLYMPUS_LEGGINGS_4",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§bDivine Leggings of Olympus",
+				"itemId": "olympus_leggings",
+				"lootType": "OLYMPUS_LEGGINGS",
+				"gemstones": {},
+				"tier": 4,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"DODGE": [
+						3
+					],
+					"RADIANCE": [
+						20
+					],
+					"HEALTH": [
+						638
+					],
+					"ARMOR": [
+						14
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§bDivine Leggings of Olympus"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+20 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+638 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+14 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bEvasion: §6+3% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §675"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §bDiamond Leggings"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "264289630DIAMOND_LEGGINGS1636405279820"
+			}
+		},
+		{
+			"type": "NETHERITE_LEGGINGS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "ATROPOS_LEGGINGS_5",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§4§lAtropos's Leggings of Demise",
+				"itemId": "atropos_leggings",
+				"lootType": "ATROPOS_LEGGINGS",
+				"gemstones": {},
+				"tier": 5,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"DODGE": [
+						4
+					],
+					"RADIANCE": [
+						135
+					],
+					"HEALTH": [
+						9471
+					],
+					"ARMOR": [
+						34
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§4§lAtropos's Leggings of Demise"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+135 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+9471 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+34 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bEvasion: §6+4% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/2)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §4Boss Leggings"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "510625764NETHERITE_LEGGINGS1636405308419"
+			}
+		}
+	]
+}

@@ -1,0 +1,3802 @@
+{
+	"items": [
+		{
+			"type": "WOODEN_AXE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"marketplaceItemType": "MAG_ITHA_AXE_1",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§8Rotting Battleaxe of Mag Itha",
+				"itemId": "mag_itha_axe",
+				"lootType": "MAG_ITHA_AXE",
+				"gemstones": {},
+				"tier": 1,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"ATTACK_SPEED": [
+						25
+					],
+					"DAMAGE": [
+						3
+					],
+					"RADIANCE": [
+						7
+					]
+				},
+				"charges": 100,
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": false,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "dark_gray",
+								"text": "Rotting Battleaxe of Mag Itha"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+7 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+3 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Attack Speed: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+25% ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/1)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "1"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "dark_gray",
+									"text": "Wooden Axe"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"dupe": "89151038WOODEN_AXE1636405204831",
+				"weaponType": "AXE"
+			}
+		},
+		{
+			"type": "STONE_AXE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "DIYU_AXE",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§7Steady Axe of Diyu",
+				"itemId": "diyu_axe",
+				"marketplaceItemType": "DIYU_AXE_4",
+				"gemstones": {},
+				"tier": 2,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"ATTACK_SPEED": [
+						15
+					],
+					"DAMAGE": [
+						41
+					],
+					"RADIANCE": [
+						10
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§7Steady Axe of Diyu"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+10 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+41 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+15% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §625"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §7Stone Axe"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "AXE",
+				"dupe": "1306355019STONE_AXE1636405899379"
+			}
+		},
+		{
+			"type": "IRON_AXE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "ZION_AXE",
+				"customName": "§fRecovered Axe of Zion",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "zion_axe",
+				"marketplaceItemType": "ZION_AXE_2",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 3,
+				"HideFlags": 3,
+				"enchantLevel": 2,
+				"attributes": {
+					"DAMAGE": [
+						32
+					],
+					"ATTACK_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						9
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§fRecovered Axe of Zion"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+9 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+32 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §650"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §fIron Axe"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "AXE",
+				"dupe": "864160017IRON_AXE1636405905195"
+			}
+		},
+		{
+			"type": "DIAMOND_AXE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "OLYMPUS_AXE",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§bDivine Axe of Olympus",
+				"itemId": "olympus_axe",
+				"marketplaceItemType": "OLYMPUS_AXE_5",
+				"gemstones": {},
+				"tier": 4,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"DAMAGE": [
+						100
+					],
+					"ATTACK_SPEED": [
+						25
+					],
+					"RADIANCE": [
+						24
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§bDivine Axe of Olympus"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+24 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+100 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+25% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §675"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §bDiamond Axe"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "AXE",
+				"dupe": "1837529274DIAMOND_AXE1636405910001"
+			}
+		},
+		{
+			"type": "NETHERITE_AXE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"marketplaceItemType": "ZAGAN_AXE_5",
+				"itemId": "zagan_axe",
+				"customDurability": 2500,
+				"Damage": 0,
+				"customName": "§4§lZagan's Battleaxe of Bloodlust",
+				"lootType": "ZAGAN_AXE",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 5,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"DAMAGE": [
+						316
+					],
+					"ATTACK_SPEED": [
+						50
+					],
+					"RADIANCE": [
+						135
+					]
+				},
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": true,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "dark_red",
+								"text": "Zagan's Battleaxe of Bloodlust"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+135 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+316 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Attack Speed: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+50% ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/2)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "1"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "dark_red",
+									"text": "Boss Axe"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "AXE",
+				"dupe": "2010889947NETHERITE_AXE1636405308415"
+			}
+		},
+		{
+			"type": "TRIDENT",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "MAG_ITHA_TRIDENT",
+				"customName": "§8Rotting Harpoon of Mag Itha",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "mag_itha_trident",
+				"marketplaceItemType": "MAG_ITHA_TRIDENT_1",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 1,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"DAMAGE": [
+						3
+					],
+					"ATTACK_SPEED": [
+						25
+					],
+					"RADIANCE": [
+						7
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§8Rotting Harpoon of Mag Itha"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+7 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+3 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+25% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §8Wooden Trident"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "TRIDENT",
+				"dupe": "1302828187TRIDENT1636405959308"
+			}
+		},
+		{
+			"type": "TRIDENT",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "DIYU_TRIDENT",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§7Steady Trident of Diyu",
+				"itemId": "diyu_trident",
+				"marketplaceItemType": "DIYU_TRIDENT_5",
+				"gemstones": {},
+				"tier": 2,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"ATTACK_SPEED": [
+						25
+					],
+					"DAMAGE": [
+						55
+					],
+					"RADIANCE": [
+						12
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§7Steady Trident of Diyu"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+12 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+55 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+25% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §625"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §7Stone Trident"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "TRIDENT",
+				"dupe": "1799128613TRIDENT1636405972296"
+			}
+		},
+		{
+			"type": "TRIDENT",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "ZION_TRIDENT",
+				"customName": "§fRecovered Trident of Zion",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "zion_trident",
+				"marketplaceItemType": "ZION_TRIDENT_3",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 3,
+				"HideFlags": 3,
+				"enchantLevel": 3,
+				"attributes": {
+					"DAMAGE": [
+						42
+					],
+					"ATTACK_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						12
+					]
+				},
+				"charges": 100,
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": false,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "white",
+								"text": "Recovered Trident of Zion"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+12 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+42 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/1)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "50"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "white",
+									"text": "Iron Trident"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"dupe": "554261134TRIDENT1636405251155",
+				"weaponType": "TRIDENT"
+			}
+		},
+		{
+			"type": "TRIDENT",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "OLYMPUS_TRIDENT",
+				"customName": "§bDivine Trident of Olympus",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "olympus_trident",
+				"marketplaceItemType": "OLYMPUS_TRIDENT_2",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 4,
+				"HideFlags": 3,
+				"enchantLevel": 2,
+				"attributes": {
+					"ATTACK_SPEED": [
+						0
+					],
+					"DAMAGE": [
+						42
+					],
+					"RADIANCE": [
+						12
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§bDivine Trident of Olympus"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+12 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+42 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §675"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §bDiamond Trident"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "TRIDENT",
+				"dupe": "1308282246TRIDENT1636405968481"
+			}
+		},
+		{
+			"type": "TRIDENT",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "SCYLLA_TRIDENT",
+				"customName": "§4§lScylla's Gath of Mortality",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "scylla_trident",
+				"marketplaceItemType": "SCYLLA_TRIDENT_1",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 5,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"DAMAGE": [
+						100
+					],
+					"ATTACK_SPEED": [
+						10
+					],
+					"RADIANCE": [
+						95
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§4§lScylla's Gath of Mortality"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+95 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+100 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+10% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/2)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §4Boss Trident"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "TRIDENT",
+				"dupe": "1970849649TRIDENT1636405963395"
+			}
+		},
+		{
+			"type": "YELLOW_DYE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "DIYU_DAGGER",
+				"customName": "§7Steady Shortsword of Diyu",
+				"customDurability": 2500,
+				"itemId": "diyu_dagger",
+				"marketplaceItemType": "DIYU_DAGGER_1",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 2,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"DAMAGE": [
+						10
+					],
+					"ACCURACY": [
+						0
+					],
+					"RADIANCE": [
+						4
+					]
+				},
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": false,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "gray",
+								"text": "Steady Shortsword of Diyu"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+4 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+10 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/1)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "25"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "gray",
+									"text": "Stone Dagger"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "1589707010YELLOW_DYE1636405234205",
+				"weaponType": "DAGGER"
+			}
+		},
+		{
+			"type": "SCUTE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"marketplaceItemType": "OLYMPUS_SHIELD_4",
+				"customDurability": 2500,
+				"customName": "§bDivine Shield of Olympus",
+				"itemId": "olympus_shield",
+				"lootType": "OLYMPUS_SHIELD",
+				"gemstones": {},
+				"tier": 4,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"DAMAGE": [
+						43
+					],
+					"ACCURACY": [
+						5
+					],
+					"RADIANCE": [
+						20
+					]
+				},
+				"charges": 100,
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": false,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "aqua",
+								"text": "Divine Shield of Olympus"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+20 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+43 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Accuracy: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+5% ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/1)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "75"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "aqua",
+									"text": "Diamond Shield"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"dupe": "872943918SCUTE1636405279819",
+				"weaponType": "SHIELD"
+			}
+		},
+		{
+			"type": "WOODEN_HOE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "MAG_ITHA_SCYTHE",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§8Rotting Hook of Mag Itha",
+				"itemId": "mag_itha_scythe",
+				"marketplaceItemType": "MAG_ITHA_SCYTHE_5",
+				"gemstones": {},
+				"tier": 1,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"DAMAGE": [
+						10
+					],
+					"ATTACK_SPEED": [
+						25
+					],
+					"RADIANCE": [
+						15
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§8Rotting Hook of Mag Itha"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+15 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+10 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+25% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §8Wooden Scythe"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SCYTHE",
+				"dupe": "965615148WOODEN_HOE1636405938991"
+			}
+		},
+		{
+			"type": "STONE_HOE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"marketplaceItemType": "DIYU_SCYTHE_1",
+				"customDurability": 2500,
+				"Damage": 0,
+				"itemId": "diyu_scythe",
+				"customName": "§7Steady Scythe of Diyu",
+				"lootType": "DIYU_SCYTHE",
+				"gemstones": {},
+				"tier": 2,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"DAMAGE": [
+						17
+					],
+					"ATTACK_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						4
+					]
+				},
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": false,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "gray",
+								"text": "Steady Scythe of Diyu"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+4 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+17 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/1)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "25"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "gray",
+									"text": "Stone Scythe"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SCYTHE",
+				"dupe": "1342304659STONE_HOE1636405234204"
+			}
+		},
+		{
+			"type": "IRON_HOE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "ZION_SCYTHE",
+				"customName": "§fRecovered Scythe of Zion",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "zion_scythe",
+				"marketplaceItemType": "ZION_SCYTHE_2",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 3,
+				"HideFlags": 3,
+				"enchantLevel": 2,
+				"attributes": {
+					"DAMAGE": [
+						32
+					],
+					"ATTACK_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						9
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§fRecovered Scythe of Zion"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+9 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+32 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §650"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §fIron Scythe"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SCYTHE",
+				"dupe": "837831274IRON_HOE1636405943199"
+			}
+		},
+		{
+			"type": "DIAMOND_HOE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "OLYMPUS_SCYTHE",
+				"customName": "§bDivine Scythe of Olympus",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "olympus_scythe",
+				"marketplaceItemType": "OLYMPUS_SCYTHE_2",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 4,
+				"HideFlags": 3,
+				"enchantLevel": 2,
+				"attributes": {
+					"DAMAGE": [
+						42
+					],
+					"ATTACK_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						12
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§bDivine Scythe of Olympus"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+12 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+42 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §675"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §bDiamond Scythe"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SCYTHE",
+				"dupe": "451620907DIAMOND_HOE1636405946791"
+			}
+		},
+		{
+			"type": "NETHERITE_HOE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "ATROPOS_SCYTHE",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§4§lAtropos's Hook of Demise",
+				"itemId": "atropos_scythe",
+				"marketplaceItemType": "ATROPOS_SCYTHE_4",
+				"gemstones": {},
+				"tier": 5,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"DAMAGE": [
+						237
+					],
+					"ATTACK_SPEED": [
+						40
+					],
+					"RADIANCE": [
+						125
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§4§lAtropos's Hook of Demise"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+125 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+237 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+40% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/2)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §4Boss Scythe"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SCYTHE",
+				"dupe": "1974069377NETHERITE_HOE1636405952694"
+			}
+		},
+		{
+			"type": "SCUTE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "MAG_ITHA_SHIELD",
+				"customName": "§8Rotting Shield of Mag Itha",
+				"customDurability": 2500,
+				"itemId": "mag_itha_shield",
+				"marketplaceItemType": "MAG_ITHA_SHIELD_1",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 1,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"DAMAGE": [
+						2
+					],
+					"ACCURACY": [
+						0
+					],
+					"RADIANCE": [
+						7
+					]
+				},
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": false,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "dark_gray",
+								"text": "Rotting Shield of Mag Itha"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+7 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+2 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/1)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "1"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "dark_gray",
+									"text": "Wooden Shield"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SHIELD",
+				"dupe": "1773978451SCUTE1636405204834"
+			}
+		},
+		{
+			"type": "WOODEN_SWORD",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "MAG_ITHA_SWORD",
+				"customName": "§8Rotting Greatsword of Mag Itha",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "mag_itha_sword",
+				"marketplaceItemType": "MAG_ITHA_SWORD_3",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 1,
+				"HideFlags": 3,
+				"enchantLevel": 3,
+				"attributes": {
+					"DAMAGE": [
+						6
+					],
+					"ATTACK_SPEED": [
+						25
+					],
+					"RADIANCE": [
+						11
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§8Rotting Greatsword of Mag Itha"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+11 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+6 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+25% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §8Wooden Sword"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SWORD",
+				"dupe": "1579894573WOODEN_SWORD1636405927580"
+			}
+		},
+		{
+			"type": "STONE_SWORD",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "DIYU_SWORD",
+				"customName": "§7Steady Sword of Diyu",
+				"Damage": 0,
+				"customDurability": 2500,
+				"itemId": "diyu_sword",
+				"marketplaceItemType": "DIYU_SWORD_2",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 2,
+				"HideFlags": 3,
+				"enchantLevel": 2,
+				"attributes": {
+					"DAMAGE": [
+						23
+					],
+					"ATTACK_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						6
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§7Steady Sword of Diyu"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+6 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+23 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §625"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §7Stone Sword"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SWORD",
+				"dupe": "2068228141STONE_SWORD1636405923683"
+			}
+		},
+		{
+			"type": "IRON_SWORD",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "ZION_SWORD",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§fRecovered Sword of Zion",
+				"itemId": "zion_sword",
+				"marketplaceItemType": "ZION_SWORD_5",
+				"gemstones": {},
+				"tier": 3,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"DAMAGE": [
+						75
+					],
+					"ATTACK_SPEED": [
+						25
+					],
+					"RADIANCE": [
+						18
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§fRecovered Sword of Zion"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+18 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+75 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+25% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §650"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §fIron Sword"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SWORD",
+				"dupe": "554839895IRON_SWORD1636405918007"
+			}
+		},
+		{
+			"type": "DIAMOND_SWORD",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "OLYMPUS_SWORD",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§bDivine Sword of Olympus",
+				"itemId": "olympus_sword",
+				"marketplaceItemType": "OLYMPUS_SWORD_4",
+				"gemstones": {},
+				"tier": 4,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"ATTACK_SPEED": [
+						15
+					],
+					"DAMAGE": [
+						75
+					],
+					"RADIANCE": [
+						20
+					]
+				},
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": false,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "aqua",
+								"text": "Divine Sword of Olympus"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+20 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+75 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Attack Speed: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+15% ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/1)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "75"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "aqua",
+									"text": "Diamond Sword"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SWORD",
+				"dupe": "852381806DIAMOND_SWORD1636405279818"
+			}
+		},
+		{
+			"type": "NETHERITE_SWORD",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"obtainableLore": "",
+				"lootType": "NYX_SWORD",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§4§lNyx's Blade of Havoc",
+				"itemId": "nyx_sword",
+				"marketplaceItemType": "NYX_SWORD_4",
+				"gemstones": {},
+				"tier": 5,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"DAMAGE": [
+						237
+					],
+					"ATTACK_SPEED": [
+						40
+					],
+					"RADIANCE": [
+						125
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§4§lNyx's Blade of Havoc"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+125 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bDamage: §6+237 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bAttack Speed: §6+40% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/2)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §4Boss Sword"
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SWORD",
+				"dupe": "1082469652NETHERITE_SWORD1636405931877"
+			}
+		},
+		{
+			"type": "SCUTE",
+			"amt": 1,
+			"tag": {
+				"type": "WEAPON",
+				"lootType": "AMMIT_SHIELD_DESTRUCTION",
+				"customName": "§4§lAmmit's Shield of Destruction",
+				"customDurability": 2500,
+				"itemId": "ammit_shield_destruction",
+				"marketplaceItemType": "AMMIT_SHIELD_DESTRUCTION_5",
+				"obtainableLore": "",
+				"gemstones": {},
+				"tier": 5,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"RADIANCE": [
+						135
+					],
+					"DAMAGE": [
+						126
+					],
+					"ACCURACY": [
+						10
+					],
+					"MONSTER_DAMAGE": [
+						95
+					]
+				},
+				"display": {
+					"Name": {
+						"extra": [
+							{
+								"bold": true,
+								"italic": false,
+								"underlined": false,
+								"strikethrough": false,
+								"obfuscated": false,
+								"color": "dark_red",
+								"text": "Ammit's Shield of Destruction"
+							}
+						],
+						"text": ""
+					},
+					"Lore": [
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": true,
+									"obfuscated": false,
+									"color": "dark_gray",
+									"text": "-------------------------"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_green",
+									"text": "Marketplace Value: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "0 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Radiance: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+135 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+126 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Accuracy: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+10% ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "aqua",
+									"text": "Monster Damage: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "+95 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "dark_purple",
+									"text": "Gemstones: "
+								},
+								{
+									"italic": false,
+									"color": "light_purple",
+									"text": "(0/2)"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "<empty>"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "red",
+									"text": "Enchantment Charge: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "100 ?"
+								}
+							],
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Level Requirement: "
+								},
+								{
+									"italic": false,
+									"color": "gold",
+									"text": "1"
+								}
+							],
+							"text": ""
+						},
+						{
+							"extra": [
+								{
+									"bold": false,
+									"italic": false,
+									"underlined": false,
+									"strikethrough": false,
+									"obfuscated": false,
+									"color": "gray",
+									"text": "Item Type: "
+								},
+								{
+									"italic": false,
+									"color": "dark_red",
+									"text": "Boss Shield"
+								}
+							],
+							"text": ""
+						}
+					]
+				},
+				"charges": 100,
+				"weaponType": "SHIELD",
+				"dupe": "1926210131SCUTE1636405308416"
+			}
+		}
+	]
+}

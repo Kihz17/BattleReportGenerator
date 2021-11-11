@@ -1,0 +1,549 @@
+{
+	"items": [
+		{
+			"type": "LEATHER_BOOTS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "MAG_ITHA_BOOTS_1",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§8Rotting Boots of Mag Itha",
+				"itemId": "mag_itha_boots",
+				"lootType": "MAG_ITHA_BOOTS",
+				"gemstones": {},
+				"tier": 1,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"MOVE_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						7
+					],
+					"HEALTH": [
+						87
+					],
+					"ARMOR": [
+						2
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§8Rotting Boots of Mag Itha"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+7 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+87 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+2 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §8Leather Boots"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "1149747623LEATHER_BOOTS1636405204836"
+			}
+		},
+		{
+			"type": "CHAINMAIL_BOOTS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "DIYU_BOOTS_1",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§7Steady Boots of Diyu",
+				"itemId": "diyu_boots",
+				"lootType": "DIYU_BOOTS",
+				"gemstones": {},
+				"tier": 2,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"MOVE_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						4
+					],
+					"HEALTH": [
+						38
+					],
+					"ARMOR": [
+						1
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§7Steady Boots of Diyu"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+4 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+38 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+1 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §625"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §7Chain Boots"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "206675322CHAINMAIL_BOOTS1636405234206"
+			}
+		},
+		{
+			"type": "IRON_BOOTS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "ZION_BOOTS_3",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§fRecovered Boots of Zion",
+				"itemId": "zion_boots",
+				"lootType": "ZION_BOOTS",
+				"gemstones": {},
+				"tier": 3,
+				"HideFlags": 3,
+				"enchantLevel": 3,
+				"attributes": {
+					"MOVE_SPEED": [
+						0
+					],
+					"RADIANCE": [
+						12
+					],
+					"HEALTH": [
+						123
+					],
+					"ARMOR": [
+						2
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§fRecovered Boots of Zion"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+12 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+123 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+2 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §650"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §fIron Boots"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "2057012794IRON_BOOTS1636405251158"
+			}
+		},
+		{
+			"type": "DIAMOND_BOOTS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "OLYMPUS_BOOTS_4",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§bDivine Boots of Olympus",
+				"itemId": "olympus_boots",
+				"lootType": "OLYMPUS_BOOTS",
+				"gemstones": {},
+				"tier": 4,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"MOVE_SPEED": [
+						15
+					],
+					"RADIANCE": [
+						20
+					],
+					"HEALTH": [
+						224
+					],
+					"ARMOR": [
+						5
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§bDivine Boots of Olympus"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+20 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+224 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+5 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bMovement Speed: §6+15% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §675"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §bDiamond Boots"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "655825968DIAMOND_BOOTS1636405279821"
+			}
+		},
+		{
+			"type": "NETHERITE_BOOTS",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "SCYLLA_BOOTS_5",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§4§lScylla's Boots of Mortality",
+				"itemId": "scylla_boots",
+				"lootType": "SCYLLA_BOOTS",
+				"gemstones": {},
+				"tier": 5,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"DODGE": [
+						3
+					],
+					"MOVE_SPEED": [
+						40
+					],
+					"RADIANCE": [
+						135
+					],
+					"HEALTH": [
+						8713
+					],
+					"ARMOR": [
+						34
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§4§lScylla's Boots of Mortality"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+135 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+8713 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+34 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bEvasion: §6+3% ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bMovement Speed: §6+40% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/2)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §4Boss Boots"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "1480827333NETHERITE_BOOTS1636405308419"
+			}
+		}
+	]
+}

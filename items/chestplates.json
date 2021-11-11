@@ -1,0 +1,526 @@
+{
+	"items": [
+		{
+			"type": "LEATHER_CHESTPLATE",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "MAG_ITHA_CHESTPLATE_1",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§8Rotting Chestplate of Mag Itha",
+				"itemId": "mag_itha_chestplate",
+				"lootType": "MAG_ITHA_CHESTPLATE",
+				"gemstones": {},
+				"tier": 1,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"HEALTH": [
+						106
+					],
+					"ARMOR": [
+						2
+					],
+					"RADIANCE": [
+						7
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§8Rotting Chestplate of Mag Itha"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+7 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+106 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+2 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §8Leather Chestplate"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "1359589187LEATHER_CHESTPLATE1636405204836"
+			}
+		},
+		{
+			"type": "CHAINMAIL_CHESTPLATE",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "DIYU_CHESTPLATE_1",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§7Steady Chestplate of Diyu",
+				"itemId": "diyu_chestplate",
+				"lootType": "DIYU_CHESTPLATE",
+				"gemstones": {},
+				"tier": 2,
+				"HideFlags": 3,
+				"enchantLevel": 1,
+				"attributes": {
+					"HEALTH": [
+						189
+					],
+					"ARMOR": [
+						3
+					],
+					"RADIANCE": [
+						4
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§7Steady Chestplate of Diyu"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+4 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+189 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+3 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §625"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §7Chain Chestplate"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "940497543CHAINMAIL_CHESTPLATE1636405234206"
+			}
+		},
+		{
+			"type": "IRON_CHESTPLATE",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "ZION_CHESTPLATE_3",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§fRecovered Chestplate of Zion",
+				"itemId": "zion_chestplate",
+				"lootType": "ZION_CHESTPLATE",
+				"gemstones": {},
+				"tier": 3,
+				"HideFlags": 3,
+				"enchantLevel": 3,
+				"attributes": {
+					"HEALTH": [
+						450
+					],
+					"ARMOR": [
+						6
+					],
+					"RADIANCE": [
+						12
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§fRecovered Chestplate of Zion"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+12 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+450 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+6 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §650"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §fIron Chestplate"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "2004522872IRON_CHESTPLATE1636405251157"
+			}
+		},
+		{
+			"type": "DIAMOND_CHESTPLATE",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "OLYMPUS_CHESTPLATE_4",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§bDivine Chestplate of Olympus",
+				"itemId": "olympus_chestplate",
+				"lootType": "OLYMPUS_CHESTPLATE",
+				"gemstones": {},
+				"tier": 4,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 4,
+				"attributes": {
+					"HEALTH": [
+						819
+					],
+					"ARMOR": [
+						11
+					],
+					"RADIANCE": [
+						20
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§bDivine Chestplate of Olympus"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+20 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+819 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+11 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/1)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §675"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §bDiamond Chestplate"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "1989756901DIAMOND_CHESTPLATE1636405279820"
+			}
+		},
+		{
+			"type": "NETHERITE_CHESTPLATE",
+			"amt": 1,
+			"tag": {
+				"type": "ARMOR",
+				"obtainableLore": "",
+				"marketplaceItemType": "NYX_CHESTPLATE_5",
+				"Damage": 0,
+				"customDurability": 2500,
+				"customName": "§4§lNyx's Chestplate of Havoc",
+				"itemId": "nyx_chestplate",
+				"lootType": "NYX_CHESTPLATE",
+				"gemstones": {},
+				"tier": 5,
+				"Enchantments": [
+					{
+						"id": "minecraft:fire_protection",
+						"lvl": 1
+					}
+				],
+				"HideFlags": 3,
+				"enchantLevel": 5,
+				"attributes": {
+					"DODGE": [
+						5
+					],
+					"RADIANCE": [
+						135
+					],
+					"HEALTH": [
+						10607
+					],
+					"ARMOR": [
+						35
+					]
+				},
+				"display": {
+					"Name": {
+						"color": "white",
+						"text": "§4§lNyx's Chestplate of Havoc"
+					},
+					"Lore": [
+						{
+							"color": "gray",
+							"text": "§8§m-------------------------"
+						},
+						{
+							"color": "gray",
+							"text": "§2Marketplace Value: §60 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§bRadiance: §6+135 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bHealth: §6+10607 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bArmor: §6+35 ?"
+						},
+						{
+							"color": "gray",
+							"text": "§bEvasion: §6+5% ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§5Gemstones: §d(0/2)"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7<empty>"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§cEnchantment Charge: §6100 ?"
+						},
+						{
+							"color": "gray",
+							"text": ""
+						},
+						{
+							"color": "gray",
+							"text": "§7Level Requirement: §61"
+						},
+						{
+							"color": "gray",
+							"text": "§7Item Type: §4Boss Chestplate"
+						}
+					]
+				},
+				"charges": 100,
+				"dupe": "890263447NETHERITE_CHESTPLATE1636405308418"
+			}
+		}
+	]
+}
